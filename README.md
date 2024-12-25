@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
@@ -23,7 +23,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Step 1: Add headers
 
-_Welcome to "Communicate using Markdown"! :wave:_
+## _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
@@ -52,13 +52,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
-
-# Testing H1 header
-## Testing H2 header
-### Testing H3 header
-#### Testing H4 header
-##### Testing H5 header
-###### Testing H6 header
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
